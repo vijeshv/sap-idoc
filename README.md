@@ -22,7 +22,7 @@ Implementation is in progress.
 
 ### Setting up the NeoLoad Advance action for SAP RFC
 
-1. Download the latest Advance Action jar [latest release](https://github.com/Neotys-Labs/SAP_RFC/releases/tag/sap-RFC-0.0.6).
+1. Download the latest Advance Action jar [latest release](https://github.com/vijeshv/sap-idoc/releases/tag/sapidoc_0.0.1).
    Keept the Jar file in the extlib folder of yor Neoload Project
 
 3. Download the External Refereces files from floder (https://github.com/Neotys-Labs/SAP_RFC/tree/main/ExternalReferences)
